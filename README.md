@@ -34,3 +34,6 @@ Curated List of Reinforcement Learning Resources for Natural Language Processing
   - [Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning](https://arxiv.org/pdf/1702.03274.pdf)
   - [Scalable Sentiment for Sequence-to-sequence Chatbot Response with Performance Analysis](https://arxiv.org/abs/1804.02504)
    
+
+
+
